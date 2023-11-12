@@ -1,0 +1,26 @@
+{
+  "name": "Marvin Riley",
+  "age": 30,
+  "address": {
+    "street": "Kutju Drive",
+    "city": "Bonnadi",
+    "state": "ND",
+    "zip": "05856"
+  },
+  "contact": {
+    "phone": "(524) 807-5742",
+    "servicePhone": "800162299"
+  },
+  "birthday": "2004-04-22T23:42:18.457Z",
+  "ip": "219.89.119.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Noj temu asiosci feszis ni zikolivi ika op bac jahvar ku nepum niawlu dachoetu esa tawuf. Hu pajedmo ga degbaj du gorziowa odpudsor dubor vap iw sidbe si. Pa vakjeboc vohlili dajeb mej micsuile lu tegcinle azeveeca vu mu tutmim.",
+    "bio": "Watew zihemu ok fengun obovibek he rilowaru vapcaf tahigcun nus vav juce zer uzkor juvun. Mazo ewoku felmavgu ubmotig nuvwa as zip ha dawmaset apafemov ret buusi ic hewi vusgu. Vededoora picbagol bafe fice wi tovej ji zaj boctuzo zofi tetumim oczatgo dohaog fumguwse joul."
+  },
+  "apiKey": "c6a91e25fb422b8caa52541b6efbea367fbb2e4a31c58d8e59c8c20ea5e0a623",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
