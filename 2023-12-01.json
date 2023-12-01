@@ -1,0 +1,26 @@
+{
+  "name": "Kenneth Spencer",
+  "age": 21,
+  "address": {
+    "street": "Fenag Glen",
+    "city": "Hehbefmis",
+    "state": "MA",
+    "zip": "50584"
+  },
+  "contact": {
+    "phone": "(243) 998-6288",
+    "servicePhone": "800266958"
+  },
+  "birthday": "1999-10-08T02:55:16.432Z",
+  "ip": "177.249.122.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Odilonhur la nug ow inuraz sovmi tu vop waptewcol we ime ceetoga wupaide raniske. Lelgaketu cusahuoc mucvo fecviroj odosetzil uskej fewad buvofo gogeltor roroloj rinan ilohici jir lil unifpam oge. Topeslus ja co jeovho res oju bufje guih riwlok adtab tin be utafah re ico. Fag muvortad uz wijod doz jip tefe agejso pipoba cuj bouresil dicepuj hesa faz. Orsiwcuf mop jefzirjuh bijeb oro ib owhif hi vo citocudo ockisji pedgamfug il iwibawef.",
+    "bio": "Ram fotlisis tejwuhsa ragwi puzza la jo oh vek zim sallal wopida net arolnem vu. Vus bu rubefki ifnowi ne ganuik parempa revo zasisif burvuzan tolurkur ok gi. Wiskelu hij ohi da zoinuje buf vujfa ciskuzu sijiz tuhluc di zesjop fekus luw kebo vartaf leksouca tod."
+  },
+  "apiKey": "b7bf15cc908d62b4fdd2aa0e47ad5f00a35d07fa4b7af84715879c614b20013d",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
