@@ -1,0 +1,26 @@
+{
+  "name": "Lloyd Mills",
+  "age": 42,
+  "address": {
+    "street": "Hasiz Highway",
+    "city": "Jobimja",
+    "state": "LA",
+    "zip": "08275"
+  },
+  "contact": {
+    "phone": "(856) 672-6803",
+    "servicePhone": "800429632"
+  },
+  "birthday": "1985-11-08T09:48:58.485Z",
+  "ip": "64.164.36.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Teb gukaopo mibezi aronul ekowko dootwiz fon jo fango cupo wi baherku haj jevut lelut meb niec. Omaahi ha weanijav mekipvar tombodu vu ridusram fifci ki mojup cu nuhanac iti zopuw woshop najme kuviliw. Li asi ilo gat wose sastoh muhrag latec zus boprep bialuda ezu fe jofanel. Dohwi wiildi zulgug bulwuz fahre sazah na ot fid dir kivlogah hu.",
+    "bio": "Peh bisosah ekrune set fogjoza kum danog konpait cudcib nobcajde te ijaefi jisaraji es itevo geg. Co igmeg bokuhula luhbud vipejpi kijo navlez dunu bilsogbez la geloj lafem goer copisava oco den ku. Ruset fustaf risbugkad kupuzaup nof ezhiz cir ifga dot vu edpoke pitimag egutilzo re zit usasain zopgej. Pobeco rek uf urautu vofug apti tozme magzamuhi fehnanvof unhamu firap polvebeh lo butnacamo. Ik gatbo tos ve jare damenjom tas ocara duledob niw mep tibom obpihon lihekru fiw daefu odosij."
+  },
+  "apiKey": "4e073c37db81f73ebeec33bed366d58daab194626e2ab76ba59d7ab5c6d59536",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
