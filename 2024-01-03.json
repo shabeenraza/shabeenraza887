@@ -1,0 +1,26 @@
+{
+  "name": "Leonard Bishop",
+  "age": 24,
+  "address": {
+    "street": "Nowa Park",
+    "city": "Udanahcon",
+    "state": "IL",
+    "zip": "34935"
+  },
+  "contact": {
+    "phone": "(322) 613-2607",
+    "servicePhone": "800577643"
+  },
+  "birthday": "1965-08-27T05:10:18.406Z",
+  "ip": "123.54.166.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Rikefow afe hansuaro likeroh dupgo fawotuolo disujupi ruzepode zevgar rapugu kiloju ge ejisaf zalzol zoes. Gona pi partuef ojecof utsi ewroj logbaj jalukwof hiwlata ahadu guba kofakafa bunepuno wi mo. Jazcoula fucli buv ni sahcusfa ora karsow ver humekhej nimafwac ifdelrig rababuda nousasow sifruj fut.",
+    "bio": "Eh ivmawpaz wiosa liw tufum rewaw sukdokpa furiw eniowcap nahul livte zibti liveihu. Hu ravci hek viicwe ga uvga dedbo buckac erwofkog nev vif guc adavuvipo gam tuvlehkav awi ri bajah. Me napak egjosho lutjo ussed siz fafjoliz hif komovi debaku tomtut gi duf geeko."
+  },
+  "apiKey": "987673181ee9a4446d2c9583feb3a38cbd50987520febe0dd54a856d91433e7c",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
