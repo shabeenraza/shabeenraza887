@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Sutton",
+  "age": 48,
+  "address": {
+    "street": "Jatube Parkway",
+    "city": "Alucfi",
+    "state": "NM",
+    "zip": "20095"
+  },
+  "contact": {
+    "phone": "(673) 922-7483",
+    "servicePhone": "800419525"
+  },
+  "birthday": "1986-09-16T16:42:48.787Z",
+  "ip": "99.86.146.12",
+  "foo": "bar",
+  "profile": {
+    "about": "Vil zu do duhbo urjom kiwka dimu gigacab vo laf uc ci duf keslegkim zefu. Upzo joutuza joato opot woviw wiguwla ercihzab ba vulkeblu uba zogdozme za belumpim kupikibi vir go joge. Me be piznumkup fotcas wiad fa vinko kowzo joh ruphammus vohoc iva evdifco popvi nopag fozna.",
+    "bio": "Ivigot sairu itaik ib za mif jigcapu goflecna soju viar ife jimaf zivsijov tesweri ir ebkucze jencu lahzanvo. Etvuhla gebooha cera tam wovezvi kuhruw hi kohkeve jaz sosec funhoti azwahis ifdiic. Loritura on dezenabes mu epehep uki ceciwpod upa sacvujtiz iblemgec ataedzig jomaz val."
+  },
+  "apiKey": "fcabce44c349b8758a62cf34c3e469ca1e00bfc620e213b63b4e2407149b6ee8",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
