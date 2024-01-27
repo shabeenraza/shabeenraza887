@@ -1,0 +1,26 @@
+{
+  "name": "Shawn Fields",
+  "age": 27,
+  "address": {
+    "street": "Butop Lane",
+    "city": "Iwigahot",
+    "state": "DE",
+    "zip": "51046"
+  },
+  "contact": {
+    "phone": "(342) 879-5809",
+    "servicePhone": "800357179"
+  },
+  "birthday": "1978-12-29T01:37:21.855Z",
+  "ip": "22.83.165.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Jehige ko vi cicic ce ibienope gava idov meubamu enitosoj onezuv opduf ovuhef ul wopivoge vo. Onvepgal es can udsih owafuvfi fozmosluj izezisel lo igteeti ze facka loca agilbi hande une avajina liva uneculu. Vafbitmov licbim jodkazin goipiwig fin sadvahi lano dapzi lepew gonetpec zuco temsaefi arawodulo hu.",
+    "bio": "Oma fa we moverof ec wunic muplaiw bunak milke webuw doltuvur sajduz tuvbosbu ji jefjid okawit vav. Si mowsazhab ihecaf dizki sesaca ohzow de ibakuj mamluos de lefemwi nas ruebges ojlajot ev ku nosihnol kar. Pokuv ugogih cu ga evju vosa gocu danuce pi muduvomu netokged ivotesfo fimomece duim deg athul di vejuk."
+  },
+  "apiKey": "2ab20d7c89a01a537308e2e1e67c61c18becefdbedc1460813bc79f050a661db",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
