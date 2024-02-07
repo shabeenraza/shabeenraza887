@@ -1,0 +1,26 @@
+{
+  "name": "John Parks",
+  "age": 43,
+  "address": {
+    "street": "Udzeh Ridge",
+    "city": "Ohupiiso",
+    "state": "IN",
+    "zip": "15921"
+  },
+  "contact": {
+    "phone": "(843) 301-5542",
+    "servicePhone": "800969356"
+  },
+  "birthday": "1969-10-02T22:31:11.106Z",
+  "ip": "39.97.72.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Bunjef uf ake guhano ija hibocce va daohzi ukpep ijfinhi ta lu pikhecoti. Be zobgan bufsirzi rukog oritu jej vucgeiz seer el tip jil posev retfavuci fehtuid lopani uva. Hihfe ani sokawika govaf ciof sucfaw iwcu imhoof fazomihuk baz ji ne. Ti geafmik rerpara enegi ved luimugi eccesul betij bunasab gi abouz li vaul zautijul buhad epiufen ne po. Zecne uzo muv loggonon dar kuidnu re cidpuwla be adada gurvas evo vigipneb kokenoh di uslidam hisafaza aruhiz.",
+    "bio": "Bavit behirsew nup mid egaocdiw mod wiz wioh beap tas waka wofbawes ikawum. Ore wakil sephim zuzekos jubig cadda unulih roji mabsi herco hep jobvafoz ficakle pudzote. Wies gu pigriip vo teko le ce dabdujpo heswi ilse ruw lezizoaw kotvossun azorirfa zek omi. Dup nedcolad nacajdek onuaga rucug lutjesfep osibofta ro ciknunjaf wiuwuhuj nikjalob hen jafzi nis mabac sukrade. Lapwim uwgesvi lam fal et ol ovna mouwito fu nah tolo cu. Guvata odifepsik mevinoj wektatub jidoj du wivpi nizuw to kiz sa fafladma tavijevec ukuva."
+  },
+  "apiKey": "67a3433bc7ce78a8ffba177884ea0e9c454fa48fc800c20001b775cdd828f25d",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
