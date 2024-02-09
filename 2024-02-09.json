@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Harmon",
+  "age": 19,
+  "address": {
+    "street": "Ubaze Pass",
+    "city": "Saserelim",
+    "state": "OK",
+    "zip": "08872"
+  },
+  "contact": {
+    "phone": "(440) 623-1051",
+    "servicePhone": "800596877"
+  },
+  "birthday": "1989-03-23T14:34:28.416Z",
+  "ip": "234.14.89.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Fo nerorli lafaowa kufci coto devoc jutbideg wa fuzonir wa cuprokub hojas ejaro luarweg jawsi kupmube ikodoeja behanjev. Es wifnor dad rutbaswin lacri ivhoji wavicho tetugsa jorcoab zakji naewupek megatcor. Umfi wi uta noperme bij opo up kaheb red vuanuak caeworip ogo vavognuc iva vickaonu wonimic nowuwi carenof. Widtoblet imicakbuz eduuf ipuj asufji sukavutoh azu bif isnos dinev ra fedtabuv wupium. Pa ja bol sa me tab owtavej gogunaw cucezuak cuumgep peruvjat noihi zifahdo mared.",
+    "bio": "Gevmukheg zan nauce bo tanmek futkicom nenpacat cewpiksu diwcizic vi tu ilkip wob puut udwiz. Ufza sivut gecib uke zase anfiwhe bibivali uji diunfaf sokjeg efebocwu mo buhpa elviini vaef uha. Musunjit mustafo ohbop ce paedavo ni zavmog gewueh pedpofiz zuj tojjam zawli boptatu hizihuz gojasje. Nugaz iv usorag if kudojel wu rozaz wi sacami arukow bud davhu."
+  },
+  "apiKey": "86ebbcafb6cce8da2e07a715cb8e2bc905f2ba74fa021263fcc019fd1630038a",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
