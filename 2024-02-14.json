@@ -1,0 +1,26 @@
+{
+  "name": "Marion Blake",
+  "age": 52,
+  "address": {
+    "street": "Epwe Turnpike",
+    "city": "Titmiwer",
+    "state": "IN",
+    "zip": "84975"
+  },
+  "contact": {
+    "phone": "(867) 601-8787",
+    "servicePhone": "800584936"
+  },
+  "birthday": "1970-09-13T19:48:25.732Z",
+  "ip": "55.144.114.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Bemersu son ca duzzinmu oddo abgu zunelmi logimo aluzebmu keluw vagi opidotu her foruiw so zacedu feefi so. Hubpih lo tuzje koli vi mise navwiac finezotil jiudpom tub lulag ego etoazoopo niwedeb rit ho. Tuv dinid veep rac tenugtej lis bem mesbo pelub zu co na subomi gudfo wugauti vupwor.",
+    "bio": "Jeaco buce bus jatsiaj tisgeihe egemir guseen zeup tuda icva sido da omefucon. Anagop ug go feekadut tele vijuc oc vunricpe hat togizuda ebsope cal koomji jaje eju. Romagjoj len egohi vitaez wetijop bu ze ipa sekimu ku pijusup olususe amugu ciho ru ob wocvi."
+  },
+  "apiKey": "337672efa5fe38a6ae6833a130f3db16ada8b88909e8f71599b37d4159c932c3",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
