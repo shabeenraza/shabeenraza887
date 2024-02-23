@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Clarke",
+  "age": 59,
+  "address": {
+    "street": "Unpo Boulevard",
+    "city": "Tulanca",
+    "state": "NY",
+    "zip": "48672"
+  },
+  "contact": {
+    "phone": "(612) 980-4013",
+    "servicePhone": "800572957"
+  },
+  "birthday": "1964-02-23T15:35:40.939Z",
+  "ip": "28.107.186.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Dawfo po hot baffucip iwa zujelwi vej nugvoebu duwa fo iphe ib koaj owe jicuv tifus taz gal. Dipa bugtak utkudih juc beilfi gura kaslaba zog elbehur liblehal cic magfa ele fimsilror kuwirta vingugol. Vehum zutevi goeslo ahtamwe tih nap hiet lafor holedoz ikeki vec now cijibu fa.",
+    "bio": "Hisso dojop roj gad fitgiaru kalernoz wegum calatiw fog zaj jul rus cos. Ucokongef et ca sop pot tubiose cezanpe dapber liwloc kujnu gawtem ro. Nivuita niivilas upi lepda etija timeve gafossig noitge lo townodene elwupib ra opulami. To bafvut sa mu un duonjo co ezadifac innebub zosa voc je."
+  },
+  "apiKey": "2b352702a74179299af6ed890dd9063d70553c26fbf65ac6dffcb0a523779463",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
