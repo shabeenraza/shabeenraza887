@@ -1,0 +1,26 @@
+{
+  "name": "Lois Jensen",
+  "age": 23,
+  "address": {
+    "street": "Feje Mill",
+    "city": "Ahnultup",
+    "state": "MN",
+    "zip": "17375"
+  },
+  "contact": {
+    "phone": "(202) 801-9518",
+    "servicePhone": "800955497"
+  },
+  "birthday": "2000-09-16T16:43:16.726Z",
+  "ip": "214.5.148.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Be heifji utmihik geccob misto du utwow luj pawivo zad powah ulhuw vokicze woewe. Mece riwbikam efu mar rut tih sal lunif wamciv rer guc ricsew asipeduza filusba. Eskokvec ir teobe eg hieb jamef afbov fes ub zesius mipaki zu wonno. Pubivobos cijko taice ovcof reimitew go utasidob om wuzi ropted nuc dur ewafesaw. Envoc vu kohitu hih lada be ubcuv rav he cahemu ugjoku su. Jon fuhor maniz tufzaovu bodel ij oh zu muc wok bafevahi rebek cid pamagigum ci lewejihi. Jefere atelol hak kackas busvuf vagucuev wap fujto woz rechifag ilumi gug.",
+    "bio": "Wetone omic kok fifegu koci ar jiwva ad du inomemmap pikuwi iwewak fuubaso fum. Kigbokofo fu aca wueceji pugi jovu mopet usrusi sahaj tuecvup wesa dan sutunmu. Kul cugejfe cemuvov tur vuzowej citti niggo ug jofilo hufno rikja vauti mibdoas vatle hebbisi enibub onezajus wucgag."
+  },
+  "apiKey": "97d4c5aaebfe0f6010e6407bed568837385becf4e7fd130d7d371068bf1e863e",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
