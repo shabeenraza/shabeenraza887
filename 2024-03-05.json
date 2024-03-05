@@ -1,0 +1,26 @@
+{
+  "name": "Terry Dennis",
+  "age": 41,
+  "address": {
+    "street": "Cazo Ridge",
+    "city": "Dibutlu",
+    "state": "PA",
+    "zip": "70128"
+  },
+  "contact": {
+    "phone": "(639) 341-2563",
+    "servicePhone": "800585177"
+  },
+  "birthday": "2005-07-09T11:19:08.321Z",
+  "ip": "88.30.219.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Fuf edeofe vil viwdin naziv le fo urovamu pa gag rosombem wiwugul rifu zez herselso pulge kiufaug. Tiuwi sisoti maj kah ze jezuhkes tuj imowigij heklaid rur dacoha jitvaj no mehfe bojnejve sil rohi. Age bavvepuk timor vousomu barogod muvosguv zetoble amoihemoj mapha te unoip for.",
+    "bio": "Aba no liasvew zo fogogaut wefile wutvu ju wecaliso hudtiwoz ab juhzelpuh karomohe are. Kewzadwap hatdo obuwidus do kukic palcu ga soh pumimzo ememeuze kuhazag micuvu. Go voho lek nic umucubes ejo genhu ap cuktuf lab lacudem hokjejad pe cuj bin."
+  },
+  "apiKey": "8b2cb2d282bcdb66bbf1a5a48535a1e79526da144b179526a8ecec5a35dc3c5b",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
