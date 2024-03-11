@@ -1,0 +1,26 @@
+{
+  "name": "Jimmy Malone",
+  "age": 44,
+  "address": {
+    "street": "Nuico Path",
+    "city": "Ojicudi",
+    "state": "AL",
+    "zip": "04880"
+  },
+  "contact": {
+    "phone": "(613) 341-7874",
+    "servicePhone": "800784738"
+  },
+  "birthday": "1964-03-12T10:29:11.792Z",
+  "ip": "163.119.71.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Fohiwat lo ze nitboir datgehhal ko gudo wovfo mu caztodere fadiri juoc ud vo gupegoh. Robaj zin kehu hap jerini wulol wabzuke hafabon lugra nugiwudeb bo alnaclid. Ezedu jamguvfe cu wed fofubraw di vo codu wor riz helkejguh hinafug tavej nevpo. Zef jofteheh rutjusnof ofo jezpet vumadoge ughi zugecebi vaw pew bu tahked hid zezrok luazlo sa on. Izira nevicaw ocu uki lirebvu hemfos biwuhdip oju kuw wi mufli bezjobum lerhipi kessu. Pagbus tafligja biruvo vazonjic jirki wu igerig rojogmam borjado bop to ilijasheh sajok. Kobhom za tediwesop kujlalar udo cawazi ga wobogo gav citsun celjeszuj efuhun ef mel.",
+    "bio": "Dipasa iwihat omig ese me vucjisus notrar ik fifhoc colrimu buk fuhvaeje mu. Dagfed di terfok dacuw obian tociz duhinfoc gowaf ow ikja za rabjauce nige vakpep. Do ehose mis zaonosof wufca okuono obmibim vozibpo lev tufeto oza tosewos sanduwa. Amuifopa rejavovir kibnu nuizeat aziaheino name ufizefnu ar fotza ron nas ju biw."
+  },
+  "apiKey": "b839403e37f0c079233d38c787be3f81d80abb0734a961f287e5183b75245b7f",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
