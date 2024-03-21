@@ -1,0 +1,26 @@
+{
+  "name": "Alma Rice",
+  "age": 28,
+  "address": {
+    "street": "Vanma Point",
+    "city": "Uzuvawo",
+    "state": "RI",
+    "zip": "94639"
+  },
+  "contact": {
+    "phone": "(625) 493-4052",
+    "servicePhone": "800341628"
+  },
+  "birthday": "1993-09-18T07:07:57.296Z",
+  "ip": "213.252.91.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Onpo pe pa doh epeicopo ru mag moctatvov vep jis zep mog. Gozporvoz desim rarku sek vup kujde pahgewhez kirnuhaf ti gelwimus ohusow rez gafuha sem. Agogaov labcat te wejjeow zuprufhu jaupca pemelak uc lojib vajnoka ofevopnup piw vi. Miktol har ojigagze aju zailwe mumolva ram vevi pu holeuha fuacke wuk dacmi huhvoj.",
+    "bio": "Pi vec dede fag or memmi wikega futcip fuc ijarah jalisuc uwe efwobcum be. Gu bej nokomkel pej vo pihbohtad sotmobel eguavokos coisijul ebemi pab hiupi cecbur. Mite tac gubnaok nipdep pumul ugimo sife tacahi sufasit opjapom lejanhi ajiikzic keda zahvufjop duruh fenegdac."
+  },
+  "apiKey": "2ba9cf004e693713681e7b5c0108d3a0b9121ebe8c6c63a3296c58773f1e7b92",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
