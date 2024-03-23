@@ -1,0 +1,26 @@
+{
+  "name": "Troy Brady",
+  "age": 27,
+  "address": {
+    "street": "Moni Road",
+    "city": "Zorosaro",
+    "state": "ND",
+    "zip": "06212"
+  },
+  "contact": {
+    "phone": "(568) 363-5630",
+    "servicePhone": "800214422"
+  },
+  "birthday": "1980-01-18T22:06:57.548Z",
+  "ip": "80.15.238.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Dekupuh nice ke zig lo canukiloz motsozo tiboz fopudlu tuj ejlupgiz godafe ku caow. Rosewef kiguswec per lizowof horuewi guvosti une vijcow di oli api urkilfo ipowel cot vavucad. Gagwacma bulmo nuhewi uguskep veron tanodvar giirudac lu zarpek fi sugal sow. Hiesu hassewrot kib tadzueze kumusba luwtab womugfa tuhbaec raoffu huwebiroj lubazouc wem cos anoufowi fe fih nofcepo tec. Pe iviartij tivehpaj domlefca fabkow haokojo kidgiik netedu cuj liutta ipe dej bifu licemow cupgidaz linhehgah. Si nopna zo iluhodwid pa oduwovi ut mew zeti ibo cuj ome gine.",
+    "bio": "Lel ma fivi cisabul azo salbirbig couju dopvabva gewpu av reh ijasu ivapaceb. Vuzu koniwjud kejulge mewuhom gatorijib anawho ver rabobwow nuheb deoc ad paluga fumih se tumaju. Bohefo abbeb zo lowese higap vewudeket razhec zo farbame osaeho tij loj uv kujnezat zocsaoj kezu wosebcuk pofmi."
+  },
+  "apiKey": "1234022697cfe1be3448573414c2e9019113900da04af64649ada3c03f21e3df",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
